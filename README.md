@@ -6,13 +6,13 @@ jQuery plugin for creating parallax backgrounds
 
 ```
 $('.banner').parallax({
-	speed:	1.25
+	speed: 1.25
 });
 ```
 
 ```
 $('.client').parallax({
 	align: 'right',
-	speed:	2.5
+	speed: 2.5
 });
 ```

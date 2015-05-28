@@ -5,9 +5,9 @@
  * Depends:
  *  jquery-1.x.js
  *
- * @example $('.banner').parallax({ speed:	1.25 });
+ * @example $('.banner').parallax({ speed:1.25 });
  *
- * @example $('.client').parallax({	align:'right',	speed:2.5 });
+ * @example $('.client').parallax({ align:'right', speed:2.5 });
  */
 
 (function($) {
